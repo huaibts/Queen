@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "350280734352",
+    "firebase_url": "https://queen-d429e.firebaseio.com",
+    "project_id": "queen-d429e",
+    "storage_bucket": "queen-d429e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350280734352:android:0ce7545fc230010d",
+        "android_client_info": {
+          "package_name": "com.huai.queen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350280734352-ton6k172v2qfqnvfolfucoe89sb3p130.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.huai.queen",
+            "certificate_hash": "5f0313e1d6c8f42c86b021fa2de4ba76c28a57bc"
+          }
+        },
+        {
+          "client_id": "350280734352-as44hrb4g7thp0tpc5odn73k5vv0n66h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR52dUSg-N-B3c-2kzvUKkiub7e8KzRv0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350280734352-as44hrb4g7thp0tpc5odn73k5vv0n66h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
